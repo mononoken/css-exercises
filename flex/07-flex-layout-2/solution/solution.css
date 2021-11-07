@@ -43,7 +43,7 @@ body {
 }
 
 .body {
-  flex: 1;
+  flex: auto;
   display: flex;
 }
 
